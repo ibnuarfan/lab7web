@@ -1,1 +1,1 @@
-# lab7web
+PRAKTIKUM 7
